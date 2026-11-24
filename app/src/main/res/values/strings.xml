@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VpnApp</string>
+    <string name="start_vpn">Hubungkan VPN</string>
+    <string name="stop_vpn">Putuskan VPN</string>
+    <string name="status_disconnected">Status: Terputus</string>
+    <string name="status_connected">Status: Terhubung (Interface TUN Aktif)</string>
+</resources>
